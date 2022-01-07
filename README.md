@@ -25,3 +25,9 @@
 - 1인칭 화면, 화면 터치시 공격, 점사 단발 변경 가능(카드보드는 화면 터치밖에 없어서 점사로 고정)
 - Boss, HP UI, 적 공격에 대한 처리 구현
 ![image](https://user-images.githubusercontent.com/67461878/141648963-f3878f65-ee88-4f26-b1e0-bf6edc5bf66e.png)
+
+
+## Hunter 프로젝트 화면
+- 게임 실행 화면
+
+-
