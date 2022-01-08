@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: d9e9c24d37c0fc14c92b44642fe07ee9
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Box031
+    100002: Gate_Block002
+    100004: Gate_Left002
+    100006: Gate_Right002
+    100008: //RootNode
+    100010: GateHouse_High
+    100012: HayTop
+    100014: Nail006
+    100016: Object028
+    100018: Object029
+    100020: Object030
+    100022: Object031
+    100024: Object032
+    100026: Object033
+    100028: Object034
+    100030: Stairs
+    100032: Stairs 1
+    400000: Box031
+    400002: Gate_Block002
+    400004: Gate_Left002
+    400006: Gate_Right002
+    400008: //RootNode
+    400010: GateHouse_High
+    400012: HayTop
+    400014: Nail006
+    400016: Object028
+    400018: Object029
+    400020: Object030
+    400022: Object031
+    400024: Object032
+    400026: Object033
+    400028: Object034
+    400030: Stairs
+    400032: Stairs 1
+    2300000: Box031
+    2300002: Gate_Block002
+    2300004: Gate_Left002
+    2300006: Gate_Right002
+    2300008: GateHouse_High
+    2300010: HayTop
+    2300012: Nail006
+    2300014: Object028
+    2300016: Object029
+    2300018: Object030
+    2300020: Object031
+    2300022: Object032
+    2300024: Object033
+    2300026: Object034
+    2300028: Stairs
+    2300030: Stairs 1
+    3300000: Box031
+    3300002: Gate_Block002
+    3300004: Gate_Left002
+    3300006: Gate_Right002
+    3300008: GateHouse_High
+    3300010: HayTop
+    3300012: Nail006
+    3300014: Object028
+    3300016: Object029
+    3300018: Object030
+    3300020: Object031
+    3300022: Object032
+    3300024: Object033
+    3300026: Object034
+    3300028: Stairs
+    3300030: Stairs 1
+    4300000: GateHouse_High
+    4300002: Gate_Left002
+    4300004: Gate_Right002
+    4300006: Gate_Block002
+    4300008: HayTop
+    4300010: Box031
+    4300012: Stairs
+    4300014: Object028
+    4300016: Object029
+    4300018: Object030
+    4300020: Nail006
+    4300022: Stairs
+    4300024: Object031
+    4300026: Object032
+    4300028: Object033
+    4300030: Object034
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

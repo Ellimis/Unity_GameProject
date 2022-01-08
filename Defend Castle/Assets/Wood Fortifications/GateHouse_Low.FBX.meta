@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 39df4127543688344b1f1e5be161ff8d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Box027
+    100002: Box028
+    100004: Gate_Block001
+    100006: Gate_Left001
+    100008: Gate_Right001
+    100010: //RootNode
+    100012: GateHouse_Low
+    100014: HayTop
+    100016: Nail005
+    100018: Object027
+    100020: Stairs
+    100022: Stairs 1
+    400000: Box027
+    400002: Box028
+    400004: Gate_Block001
+    400006: Gate_Left001
+    400008: Gate_Right001
+    400010: //RootNode
+    400012: GateHouse_Low
+    400014: HayTop
+    400016: Nail005
+    400018: Object027
+    400020: Stairs
+    400022: Stairs 1
+    2300000: Box027
+    2300002: Box028
+    2300004: Gate_Block001
+    2300006: Gate_Left001
+    2300008: Gate_Right001
+    2300010: GateHouse_Low
+    2300012: HayTop
+    2300014: Nail005
+    2300016: Object027
+    2300018: Stairs
+    2300020: Stairs 1
+    3300000: Box027
+    3300002: Box028
+    3300004: Gate_Block001
+    3300006: Gate_Left001
+    3300008: Gate_Right001
+    3300010: GateHouse_Low
+    3300012: HayTop
+    3300014: Nail005
+    3300016: Object027
+    3300018: Stairs
+    3300020: Stairs 1
+    4300000: Box027
+    4300002: Box028
+    4300004: GateHouse_Low
+    4300006: Object027
+    4300008: Nail005
+    4300010: Gate_Right001
+    4300012: Gate_Block001
+    4300014: Gate_Left001
+    4300016: Stairs
+    4300018: HayTop
+    4300020: Stairs
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

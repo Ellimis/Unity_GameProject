@@ -1,0 +1,29 @@
+-- 조작법
+화면 회전 : 마우스 X, Y
+공격 : 마우스 좌클릭
+장전 : 키보드 R
+카메라 회전 초기화 : 키보드 F
+
+-- 에셋 출처
+Wood Fortifications(교수님이 공유해주신 유료 에셋, 게임 Scene에서 맵 제작에 사용)
+Standard Assets(Water Advanced 사용)
+NatureStarterKit2(게임 Scene에서 맵 제작에 사용) - https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
+Glowing_Forest(게임 Scene에서 맵 제작에 사용) - https://assetstore.unity.com/packages/3d/environments/fantasy/glowing-forest-79686
+FreeCharacter(적 캐릭터) - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/3-free-characters-18098
+Fog of War Gun Sound(총 발사, 장전 소리)- https://assetstore.unity.com/packages/audio/sound-fx/weapons/fog-of-war-gun-sound-fx-free-66100
+
+성 맞는 소리 - https://pgtd.tistory.com/224) 
+적 죽는 소리 - https://www.youtube.com/watch?v=nZC3oANFfv0
+타이틀 브금 - https://www.youtube.com/watch?v=TuYMlmfxTnw
+게임 브금 - https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=kommein3&logNo=221572411162&redirect=Dlog&widgetTypeCall=true&directAccess=false
+종료 브금 - https://www.youtube.com/watch?v=lrCOeEmENkM
+
+HDRI - https://polyhaven.com/a/kloppenheim_07
+Win Texture - https://m.gettyimagesbank.com/view/You-win-Poster-with-prize-cup/841091150
+
+-- 구현한 내용
+Title, Game, End Scene
+OnGUI, UI Button, Animation, Audio Clip, Audio Source, Move/Rotate Script, Terrain, Wind zone,  Skybox, Fog, Water, Material, Prefab, Collider, Raycast 등등등
+
+3D 게임 디자인 수업에서 배운 것들과 기존에 알고 있던 지식들을 활용해서 열심히 만들었습니다!!
+
